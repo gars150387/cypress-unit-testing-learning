@@ -1,4 +1,7 @@
 {
     "viewportWidth": 1600,
-    "viewportHeight": 1000
+    "viewportHeight": 1000,
+    "compilerOptions": {
+        "types": ["cypress"]
+      }
 }
